@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Cera Round';
+  src: url('/fonts/CeraRound-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cera Round';
+  src: url('/fonts/CeraRound-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
